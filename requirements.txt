@@ -1,13 +1,6 @@
 streamlit
-numpy>=1.22
+numpy<2
 pandas
 scikit-learn
-matplotlib
-seaborn
-requests
-opencv-python-headless
-PyPDF2
-torch
-transformers
-sentence-transformers
 tensorflow
+scikeras
